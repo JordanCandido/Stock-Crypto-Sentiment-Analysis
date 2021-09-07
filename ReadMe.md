@@ -1,4 +1,4 @@
-# Project 2 : (NewsAPI) Crypto/Stock Sentiment Analysis, Options Payoff Diagram with Inputs & EPS/Revenue Graphs, Risk Assessment Robo Advisor, Machine Learning
+# Project 2 : Sentiment Analysis using Python API
 
 # Brainstorming
 ## (NewsAPI) Crypto/Stock Sentiment Analysis
